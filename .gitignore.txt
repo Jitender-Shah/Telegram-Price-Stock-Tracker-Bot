@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+pricetracker_bot_data

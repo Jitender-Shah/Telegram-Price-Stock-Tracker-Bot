@@ -2,8 +2,7 @@
 
 A versatile Telegram bot that monitors product prices and stock availability on Shopify-based e-commerce sites. Users can track products, set a target price, and receive instant notifications for price drops and restocks.
 
-![Bot Mascot](https://i.imgur.com/your-mascot-image-url.png) 
-*Note: You would replace the URL above with a link to the bot mascot image after uploading it.*
+https://t.me/bonkers_price_bot
 
 ---
 
